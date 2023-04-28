@@ -13,7 +13,8 @@ Users should be able to:
 
 ### Links
 
-- [Live Demo](https://pari55051.github.io/huddle-landing-page/)
+- Solution URL: []()
+- Live Site URL: []()
 
 
 ### Built with
